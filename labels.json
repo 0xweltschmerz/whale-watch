@@ -1,0 +1,91 @@
+{
+  "_info": "Adresse -> entité. type = exchange | gouvernement | entite. Source initiale : BitInfoCharts (top 100, octobre 2026), checksums vérifiés. Ajoute tes propres adresses au même format.",
+  "34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo": {
+    "nom": "Binance",
+    "type": "exchange"
+  },
+  "3M219KR5vEneNb47ewrPfWyb5jQ2DjxRP6": {
+    "nom": "Binance",
+    "type": "exchange"
+  },
+  "bc1ql49ydapnjafl5t2cp9zqpjwe6pdgmxy98859v2": {
+    "nom": "Robinhood",
+    "type": "exchange"
+  },
+  "bc1qgdjqv0av3q56jvd82tkdjpy7gdp9ut8tlqmgrpmv24sq90ecnvqqjwvw97": {
+    "nom": "Bitfinex",
+    "type": "exchange"
+  },
+  "bc1qjasf9z3h7w3jspkhtgatgpyvvzgpa2wwd2lr0eh5tx44reyn2k7sfc27a4": {
+    "nom": "Tether",
+    "type": "entite"
+  },
+  "bc1qazcm763858nkj2dj986etajv6wquslv8uxwczt": {
+    "nom": "Gouvernement US (saisie Bitfinex)",
+    "type": "gouvernement"
+  },
+  "bc1qa5wkgaew2dkv56kfvj49j0av5nml45x9ek9hz6": {
+    "nom": "Gouvernement US (saisie Silk Road)",
+    "type": "gouvernement"
+  },
+  "3LYJfcfHPXYJreMsASk2jkn69LWEYKzexb": {
+    "nom": "Binance",
+    "type": "exchange"
+  },
+  "3MgEAFWu1HKSnZ5ZsC8qf61ZW18xrP5pgd": {
+    "nom": "OKX",
+    "type": "exchange"
+  },
+  "3LQUu4v9z6KNch71j7kbj8GPeAGUo1FW6a": {
+    "nom": "Binance",
+    "type": "exchange"
+  },
+  "bc1q4j7fcl8zx5yl56j00nkqez9zf3f6ggqchwzzcs5hjxwqhsgxvavq3qfgpr": {
+    "nom": "Coincheck",
+    "type": "exchange"
+  },
+  "bc1q7ydrtdn8z62xhslqyqtyt38mm4e2c4h3mxjkug": {
+    "nom": "Gouvernement UK (saisie)",
+    "type": "gouvernement"
+  },
+  "3FHNBLobJnbCTFTVakh5TXmEneyf5PT61B": {
+    "nom": "Binance",
+    "type": "exchange"
+  },
+  "bc1qr4dl5wa7kl8yu792dceg9z5knl2gkn220lk7a9": {
+    "nom": "Crypto.com",
+    "type": "exchange"
+  },
+  "1Pzaqw98PeRfyHypfqyEgg5yycJRsENrE7": {
+    "nom": "Binance",
+    "type": "exchange"
+  },
+  "bc1qx2x5cqhymfcnjtg902ky6u5t5htmt7fvqztdsm028hkrvxcl4t2sjtpd9l": {
+    "nom": "Bitbank",
+    "type": "exchange"
+  },
+  "3JZq4atUahhuA9rLhXLMhhTo133J9rF97j": {
+    "nom": "Bitfinex",
+    "type": "exchange"
+  },
+  "bc1qkmk4v2xn29yge68fq6zh7gvfdqrvpq3v3p3y0s": {
+    "nom": "Gouvernement US (saisie Bitfinex)",
+    "type": "gouvernement"
+  },
+  "3FM9vDYsN2iuMPKWjAcqgyahdwdrUxhbJ3": {
+    "nom": "OKX",
+    "type": "exchange"
+  },
+  "1CY7fykRLWXeSbKB885Kr4KjQxmDdvW923": {
+    "nom": "OKX",
+    "type": "exchange"
+  },
+  "bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h": {
+    "nom": "Binance",
+    "type": "exchange"
+  },
+  "162bzZT2hJfv5Gm3ZmWfWfHJjCtMD6rHhw": {
+    "nom": "Gate.io",
+    "type": "exchange"
+  }
+}
